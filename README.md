@@ -20,7 +20,7 @@ This example uses the smart I/O peripheral in TRAVEO™ T2G MCU to connect the b
 
 ## Supported kits (make variable 'TARGET')
 
-- TRAVEO™ T2G body high evaluation kit (`KIT_T2G_B-H_LITE`) - Default value of `TARGET`
+- TRAVEO™ T2G body high evaluation kit (`KIT_T2G-B-H_LITE`) - Default value of `TARGET`
 
 
 ## Hardware setup
@@ -160,7 +160,7 @@ For a list of supported IDEs and more details, see the "Exporting to IDEs" secti
 
       Board          |  Button input pin   |  Smart I/O output pin  |  LED pin
     -----------------|-------------------  |------------------------|-------------
-    KIT_T2G_B-H_LITE |  P17[0] (USER BTN2) |      P17[1]            |   P5[0]
+    KIT_T2G-B-H_LITE |  P17[0] (USER BTN2) |      P17[1]            |   P5[0]
 
 
 
