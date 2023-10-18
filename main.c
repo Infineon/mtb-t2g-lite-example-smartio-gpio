@@ -1,14 +1,14 @@
 /******************************************************************************
 * File Name: main.c
 *
-* Description: This is the source code for the XMC7000 MCU using Smart I/O to 
+* Description: This is the source code for the T2G MCU using Smart I/O to 
 * connect the button input pin to output pin to toggle LED Example for
 * ModusToolbox.
 *
 * Related Document: See README.md
 *
 *******************************************************************************
-* Copyright 2022, Cypress Semiconductor Corporation (an Infineon company) or
+* Copyright 2022-2023, Cypress Semiconductor Corporation (an Infineon company) or
 * an affiliate of Cypress Semiconductor Corporation.  All rights reserved.
 *
 * This software, including source code, documentation and related
